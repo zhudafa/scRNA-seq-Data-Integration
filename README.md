@@ -1,6 +1,6 @@
 # Single-Cell Integration
 Mathematical optimization methods in Single-Cell integration
-# * non-negative Matrix Factorization* 
+## *Non-Negative Matrix Factorization* 
  | Label | Title  | Code | Model |Description | Others|
 | ------------- | ------------- |------------- | ------------- | ------------- | ------------- |
 |2016_Bioinformatics [paper](https://academic.oup.com/bioinformatics/article/32/1/1/1743821?login=false)  |A non-negative matrix factorization method for detecting modules in heterogeneous omics multi-modal data  |[code](https://github.com/yangzi4/iNMF)  | ![image](https://github.com/zhudafa/scRNA-seq-Data-Integration/blob/main/161.png)| ![image](https://github.com/zhudafa/scRNA-seq-Data-Integration/blob/main/162.png)|
